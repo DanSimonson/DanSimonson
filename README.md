@@ -19,6 +19,6 @@ You've found my profile. I'm a Full-Stack JavaScript Developer from the Atlanta 
 </a>
 
 
-⭐️  [Dan Simonson's Website](https://mariposaweb.net)
+⭐️ ⭐️ ⭐️  [Dan Simonson's Website](https://mariposaweb.net) ⭐️ ⭐️ ⭐️ 
 
  
