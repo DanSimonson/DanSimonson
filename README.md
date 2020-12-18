@@ -18,6 +18,8 @@ You've found my profile. I'm a Full-Stack JavaScript Developer from the Atlanta 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanSimonson&layout=compact" />
 </a>
 
+<hr/>
+
 ⭐️ From [Dan Simonson](https://mariposaweb.net)
 
- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+ 
