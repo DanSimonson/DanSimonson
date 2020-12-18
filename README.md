@@ -24,6 +24,8 @@ You've found my profile. I'm a Full-Stack JavaScript Developer from the Atlanta 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/dansimonsonmariposaweb/)
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/simonsondan?lang=en)
 
+<br/>
+<br/>
 <hr/>
 
 ⭐️ From [Dan Simonson](https://github.com/DanSimonson/)
