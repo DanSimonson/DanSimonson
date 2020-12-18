@@ -25,5 +25,6 @@ You've found my profile. I'm a Full-Stack JavaScript Developer from the Atlanta 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/simonsondan?lang=en)
 
 
+⭐️ From [Dan Simonson](https://github.com/DanSimonson/)
 
  
