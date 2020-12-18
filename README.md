@@ -18,6 +18,11 @@ You've found my profile. I'm a Full-Stack JavaScript Developer from the Atlanta 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanSimonson&layout=compact" />
 </a>
 
+## 🔗 Connect with me on :
+
+[![Connect on LinkedIn](https://img.shields.io/badge/--website?label=My%20Website&logo=awesome-lists&style=social&logoColor=2257ea)](https://hayattamboli.vercel.app/)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/dansimonsonmariposaweb/)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/simonsondan?lang=en)
 
 ⭐️ ⭐️ ⭐️  [Dan Simonson's Website](https://mariposaweb.net) ⭐️ ⭐️ ⭐️ 
 
