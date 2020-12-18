@@ -1,6 +1,6 @@
 ### Nice to meet you! 👋
 
-You've found my profile. In short, I'm a full-stack JavaScript developer from the Atlanta area in Georgia. I have worked at several different companies as a software developer and have a small freelance business. 
+You've found my profile. I'm a Full-Stack JavaScript Developer from the Atlanta area in Georgia. I have worked at several different companies as a software developer and have a small freelance business. 
 
 
 <div>
