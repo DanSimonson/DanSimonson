@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+
+
 ### Nice to meet you! 👋
 
 You've found my profile. I'm a Full-Stack JavaScript Developer and Front-End Developer. I have worked at several different companies as a software developer. 
