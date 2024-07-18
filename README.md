@@ -3,7 +3,7 @@
 
 ### Nice to meet you! 👋
 
-You've found my profile. I'm a Full-Stack JavaScript Developer and Front-End Developer. I have worked at several different companies as a software developer. 
+You've found my profile. I'm a Full-Stack JavaScript Developer and Front-End Developer.  
 <br><br>
 <div>
 <!-- <h3> 💻  Weapons of choice include but are not limited to: </h3> -->
