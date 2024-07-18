@@ -2,13 +2,11 @@
 
 You've found my profile. I'm a Full-Stack JavaScript Developer and Front-End Developer. I have worked at several different companies as a software developer. 
 
-
-<div>
-<!--   <h3> 💻  Weapons of choice include but are not limited to: </h3> -->
-  - Skills
+ - Skills
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 <br><br>
-  
+<div>
+<!--   <h3> 💻  Weapons of choice include but are not limited to: </h3> -->
   - JavaScript 💚
   - React 💙
   - Node 💛
