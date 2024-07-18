@@ -7,7 +7,8 @@ You've found my profile. I'm a Full-Stack JavaScript Developer and Front-End Dev
 <br><br>
 <div>
 <!-- <h3> 💻  Weapons of choice include but are not limited to: </h3> -->
- <h3>- Skills</h3>
+ <h3> 🖥️ - Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"></h3>
+ 
   - JavaScript 💚
   - React 💙
   - Node 💛
